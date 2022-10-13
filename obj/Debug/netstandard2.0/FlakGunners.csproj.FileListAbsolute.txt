@@ -1,0 +1,13 @@
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/bin/Debug/netstandard2.0/FlakGunners.deps.json
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/bin/Debug/netstandard2.0/FlakGunners.dll
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/bin/Debug/netstandard2.0/FlakGunners.pdb
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/bin/Debug/netstandard2.0/Assembly-CSharp.dll
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.csproj.AssemblyReference.cache
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/PluginInfo.cs
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.GeneratedMSBuildEditorConfig.editorconfig
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.AssemblyInfoInputs.cache
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.AssemblyInfo.cs
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.csproj.CoreCompileInputs.cache
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.csproj.CopyComplete
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.dll
+/media/weaversong/Elements/Projects/Mods/Star Valor/FlakGunners/obj/Debug/netstandard2.0/FlakGunners.pdb
